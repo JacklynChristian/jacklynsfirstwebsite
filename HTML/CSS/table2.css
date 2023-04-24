@@ -1,0 +1,16 @@
+table,td,th,tr{
+    margin: 20px;
+    border: 1px solid royalblue;
+    border-color: red;
+    border-collapse: collapse;
+
+}
+
+thead{
+    background-color: aliceblue;
+}
+
+
+thead,tr,td{
+    padding: 10px;
+}
